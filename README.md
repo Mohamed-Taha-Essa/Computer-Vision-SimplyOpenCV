@@ -1,2 +1,2 @@
 # Computer-Vision-SimplyOpenCV
-This repo basen on book simply opencv
+This repo based on book simply opencv
